@@ -1,1 +1,2 @@
+This file contains the pattern no. three of pattern printing series
 
