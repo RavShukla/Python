@@ -1,6 +1,7 @@
 # 🚀 Project Name
 
-Short one-line description of your project.
+Short one-line description of your project
+
 
 Example:
 
